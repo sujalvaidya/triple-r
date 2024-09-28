@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/sujalyatin) - sujalyatin@gmail.com
+Sujal Vaidya - [@sujalyatin](https://twitter.com/sujalyatin) - sujalyatin@gmail.com
 
 Project Link: [https://github.com/sujalvaidya/triple-r](https://github.com/sujalvaidya/triple-r)
 
